@@ -13,7 +13,7 @@
 
 ## Related content
 **Website:** [Codecademy](https://www.codecademy.com/)  
-**Skill Path:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)  
+**Skill Path:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) <sup>PRO</sup>  
 **Content:** 3. Rule-Based Chatbots / Rule-Based Chatbots / [Alienbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/rule-based-chatbots/modules/rule-based-chatbots/projects/python-chatbot-alienbot)
 
 ## General information
