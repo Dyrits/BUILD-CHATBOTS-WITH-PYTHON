@@ -50,6 +50,7 @@ python3 script.py
 
 ## Technologies
 - [Python](https://www.python.org/) (3.8)
+    - [random](https://github.com/python/cpython/tree/3.9/Lib/random.py) - Generate pseudo-random numbers
     - [re](https://github.com/python/cpython/blob/3.9/Lib/re.py) - Regular expression operations
 
 ## Status
