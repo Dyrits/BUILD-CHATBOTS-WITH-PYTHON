@@ -1,9 +1,9 @@
 # [Alienbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/rule-based-chatbots/modules/rule-based-chatbots/projects/python-chatbot-alienbot) 
-*Add a short description of the project.*
 
 ## Table of contents
 - [Related content](#related-content)
 - [General information](#general-information)
+    - [Description by Codecademy](#description-by-codecademyhttpswwwcodecademycom)
 - [Technologies](#technologies)
 - [Status](#status)
   - [Features](#features)
@@ -18,7 +18,8 @@
 **Content:** 3. Rule-Based Chatbots / Rule-Based Chatbots / [Alienbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/rule-based-chatbots/modules/rule-based-chatbots/projects/python-chatbot-alienbot)
 
 ## General information
-**Description by [Codecademy](https://www.codecademy.com/):**
+
+### Description by [Codecademy](https://www.codecademy.com/)
 
 The 1950s ushered in a slew of UFO sightings and excitement about outer space. Incidentally, the decade also brought about a new idea of artificial intelligence. The computer scientist Alan Turing proposed that if a computer was able to fool a human into believing it was human, the computer would be considered “intelligent.”
 
