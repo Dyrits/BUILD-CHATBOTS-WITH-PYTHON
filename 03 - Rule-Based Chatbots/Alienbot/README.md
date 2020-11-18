@@ -3,7 +3,6 @@
 ## Table of contents
 - [Related content](#related-content)
 - [General information](#general-information)
-    - [Description by Codecademy](#description-by-codecademyhttpswwwcodecademycom)
 - [Technologies](#technologies)
 - [Status](#status)
   - [Features](#features)
