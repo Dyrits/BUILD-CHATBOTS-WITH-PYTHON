@@ -65,7 +65,7 @@ All the required features (as described in [General information](#general-inform
 
 The key and value of the `alienbabble` dictionary have been inverted.  
 The values have been modified to refer directly to the methods related to the intent.  
-The `alienbabble` dictionary has been renamed `intends`.
+The `alienbabble` dictionary has been renamed `intents`.
 
 </details>
 
