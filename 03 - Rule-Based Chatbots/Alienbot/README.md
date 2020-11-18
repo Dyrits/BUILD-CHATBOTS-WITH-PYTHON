@@ -54,14 +54,22 @@ python3 script.py
     - [re](https://github.com/python/cpython/blob/3.9/Lib/re.py) - Regular expression operations
 
 ## Status
-Project (1.0) completed the 18/11/2020. 
+Project (1.02) completed the 18/11/2020. 
 
 ### Features
 All the required features (as described in [General information](#general-information)) have been implemented.
 
 ### Changelog
 <details markdown="block">
-<summary>Version 1.0 (18/11/2020)</summary>
+<summary>Version 1.02 (18/11/2020)</summary>
+
+The code have been slightly refactored.  
+The chatbot can now be instantiated with a different name.  
+The dialogs options have been slightly modified to be more personalized.  
+
+</details>
+<details markdown="block">
+<summary>Version 1.01 (18/11/2020)</summary>
 
 The key and value of the `alienbabble` dictionary have been inverted.  
 The values have been modified to refer directly to the methods related to the intent.  
